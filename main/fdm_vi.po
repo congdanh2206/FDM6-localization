@@ -7,6 +7,13 @@ msgstr ""
 "X-Language: vi_VN\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"X-Generator: Poedit 3.0\n"
 
 msgctxt "AboutDialog|"
 msgid "About"
@@ -14,11 +21,11 @@ msgstr "Thông tin ứng dụng"
 
 msgctxt "AboutDialog|"
 msgid "Version: %1 (%2)"
-msgstr ""
+msgstr "Phiên bản: %1 (%2)"
 
 msgctxt "AboutDialog|"
 msgid "Build date: %1"
-msgstr ""
+msgstr "Ngày phát triển: %1"
 
 msgctxt "AboutDialog|"
 msgid "version %1"
@@ -34,15 +41,15 @@ msgstr "Phiên bản %1 (%2)"
 
 msgctxt "AddDateToFileName|"
 msgid "Add dates to files names"
-msgstr ""
+msgstr "Thêm ngày vào tên của file"
 
 msgctxt "AddMirrorDialog|"
 msgid "Add mirror"
-msgstr ""
+msgstr "Thêm dự phòng "
 
 msgctxt "AddMirrorDialog|"
 msgid "Enter mirror URL"
-msgstr ""
+msgstr "Nhập URL dự phòng"
 
 msgctxt "AddMirrorDialog|"
 msgid "Cancel"
@@ -54,7 +61,7 @@ msgstr "Đồng ý"
 
 msgctxt "AddMirrorPage|"
 msgid "Add mirror"
-msgstr ""
+msgstr "Nhập URL dự phòng"
 
 msgctxt "AddMirrorPage|"
 msgid "OK"
@@ -62,7 +69,7 @@ msgstr "Đồng ý"
 
 msgctxt "AddMirrorPage|"
 msgid "Enter mirror URL"
-msgstr ""
+msgstr "Nhập URL dự phòng"
 
 msgctxt "AddTDialog|"
 msgid "Cancel"
@@ -78,11 +85,11 @@ msgstr "Đồng ý"
 
 msgctxt "AddTag|"
 msgid "Add tag"
-msgstr "Thêm tag"
+msgstr "Thêm nhãn"
 
 msgctxt "AdvancedSettings|"
 msgid "Advanced"
-msgstr "Nâng cao"
+msgstr "Cài đặt nâng cao"
 
 msgctxt "AdvancedSettings|"
 msgid "Notifications"
@@ -100,7 +107,7 @@ msgstr ""
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of downloads only when %1 window is inactive"
-msgstr ""
+msgstr "Thông báo về quá trình download chỉ khi cửa sổ %1 đang được ẩn"
 
 msgctxt "AdvancedSettings|"
 msgid "Customize sounds"
@@ -112,7 +119,9 @@ msgstr "Chế độ quản lý năng lượng"
 
 msgctxt "AdvancedSettings|"
 msgid "Don't put your computer to sleep if there is an active download"
-msgstr "Không đặt máy tính của bạn để ngủ nếu có một tải xuống hoạt động"
+msgstr ""
+"Không đặt máy tính của bạn ở chế độ ngủ nếu có một quá trình tải xuống hoạt "
+"động"
 
 msgctxt "AdvancedSettings|"
 msgid "Enable sleep mode while running finished downloads"
@@ -124,7 +133,7 @@ msgstr "Tùy chọn"
 
 msgctxt "AdvancedSettings|"
 msgid "Launch at startup (minimized)"
-msgstr "Chạy lúc khởi động (giảm thiểu)"
+msgstr "Chạy lúc khởi động (chạy ngầm)"
 
 msgctxt "AdvancedSettings|"
 msgid "Open/hide the bottom panel by clicking on the download"
@@ -132,7 +141,7 @@ msgstr ""
 
 msgctxt "AdvancedSettings|"
 msgid "Backup the list of downloads every"
-msgstr ""
+msgstr "Sao lưu danh sách những file tải xuống mỗi"
 
 msgctxt "AdvancedSettings|"
 msgid "File exists reaction"
@@ -157,7 +166,7 @@ msgstr ""
 
 msgctxt "AdvancedSettings|"
 msgid "Do not allow downloads if battery level drops below"
-msgstr ""
+msgstr "Không cho phép tải xuống nếu pin thiết bị chỉ còn"
 
 msgctxt "AdvancedSettings|"
 msgid "Delete button action"
@@ -186,8 +195,8 @@ msgstr "Chọn giao diện"
 msgctxt "AdvancedSettings|"
 msgid "A light theme will be used, if the system theme is unknown."
 msgstr ""
-"Giao diện sáng sẽ được áp dụng trong trường hợp không phân biệt được giao "
-"diện hệ thống"
+"Giao diện sáng sẽ được áp dụng trong trường hợp không nhận dạng được giao "
+"diện hệ thống."
 
 msgctxt "AntivirusComboBox|"
 msgid "Configure manually..."
@@ -223,7 +232,7 @@ msgstr ""
 
 msgctxt "AntivirusSettings|"
 msgid "Automatically perform virus check when download is finished"
-msgstr ""
+msgstr "Tự động quét virus cho file đã tải về"
 
 msgctxt "AntivirusSettingsDialog|"
 msgid "Virus check"
@@ -243,19 +252,19 @@ msgstr "Hủy"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Downloads with no resume support (%1)."
-msgstr ""
+msgstr "Tải xuống không có hỗ trợ tạm dừng download file (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Moving files (%1)."
-msgstr ""
+msgstr "Di chuyển file (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Converting files to mp3 (%1)."
-msgstr ""
+msgstr "Chuyển đổi định dạng file thành mp3 (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Converting files to mp4 (%1)."
-msgstr ""
+msgstr "Chuyển đổi định dạng file thành mp4 (%1)"
 
 msgctxt "AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|"
 msgid "Merging media streams (%1)."
@@ -267,7 +276,7 @@ msgstr ""
 
 msgctxt "AuthenticationDialog|"
 msgid "Authentication required"
-msgstr ""
+msgstr "Yêu cầu xác thực"
 
 msgctxt "AuthenticationDialog|"
 msgid "The site says: \"%1\"."
@@ -283,7 +292,7 @@ msgstr "Mật khẩu:"
 
 msgctxt "AuthenticationDialog|"
 msgid "remember"
-msgstr "Nhớ mật khẩU"
+msgstr "Nhớ mật khẩu"
 
 msgctxt "AuthenticationDialog|"
 msgid "Cancel"
@@ -383,7 +392,7 @@ msgstr "Dán"
 
 msgctxt "BatchVideoQuality|"
 msgid "Max. video quality:"
-msgstr ""
+msgstr "Chất lượng video tối đa:"
 
 msgctxt "BitrateComboBox|"
 msgid "kbps"
@@ -502,6 +511,8 @@ msgid ""
 "Make sure you have %1 extension installed, otherwise, click one of the "
 "buttons below"
 msgstr ""
+"Hãy chắc chắn bạn đã có trình mở rộng %1 được cài đặt. Nếu không, hãy nhấn "
+"vào một trong những nút ở bên dưới"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Other supported browsers"
@@ -509,11 +520,11 @@ msgstr "Các trình duyệt khác được hỗ trợ"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Automatically catch downloads from browsers"
-msgstr "Tự động bắt tải từ trình duyệt"
+msgstr "Tự động bắt link tải từ trình duyệt"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Intercept downloads in your web browser"
-msgstr ""
+msgstr "Chặn tải xuống trong trình duyệt web của bạn"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Start downloading without confirmation"
@@ -541,7 +552,7 @@ msgstr ""
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't catch downloads smaller than"
-msgstr "Không bắt tải nhỏ hơn"
+msgstr "Không bắt link tải với file nhỏ hơn"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Mbytes"
@@ -593,11 +604,11 @@ msgstr "Bắt đầu tải xuống mà không cần xác nhận"
 
 msgctxt "BtStrings|"
 msgid "Uploaded"
-msgstr ""
+msgstr "Đã tải lên"
 
 msgctxt "BtStrings|"
 msgid "Ratio"
-msgstr ""
+msgstr "Tỷ lệ"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Add download"
@@ -605,7 +616,7 @@ msgstr "Thêm tải xuống"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Report problem"
-msgstr ""
+msgstr "Báo cáo sự cố"
 
 msgctxt "BuildDownloadDialog|"
 msgid "Cancel"
@@ -633,11 +644,11 @@ msgstr "Đồng ý"
 
 msgctxt "BuildDownloadPage|"
 msgid "Report problem"
-msgstr ""
+msgstr "Báo cáo sự cố"
 
 msgctxt "BuildDownloadPage|"
 msgid "Downloading from this site is not allowed"
-msgstr "Tải về từ trang này không khả dụng"
+msgstr "Bạn không được phép tải file do yêu cầu từ trang này"
 
 msgctxt "BuildDownloadTools|"
 msgid "The proxy %1 requires a username and password."
@@ -697,7 +708,7 @@ msgstr "Nhập URL mới"
 
 msgctxt "ChangeUrlDialog|"
 msgid "File location: %1"
-msgstr ""
+msgstr "Đường dẫn file: %1"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Invalid URL"
@@ -717,7 +728,7 @@ msgstr "Đồng ý"
 
 msgctxt "ChangeUrlPage|"
 msgid "Change download URL"
-msgstr "THay đổi URL tải về"
+msgstr "Thay đổi URL tải về"
 
 msgctxt "ChangeUrlPage|"
 msgid "OK"
@@ -729,7 +740,7 @@ msgstr "Nhập URL mới"
 
 msgctxt "ChangeUrlPage|"
 msgid "File location: %1"
-msgstr ""
+msgstr "Đường dẫn file: %1"
 
 msgctxt "ChangeUrlPage|"
 msgid "Start download"
@@ -761,7 +772,7 @@ msgstr "Sao chép"
 
 msgctxt "CppQmlApp|"
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn thoát không?"
 
 msgctxt "CrashReporter|"
 msgid ""
@@ -974,15 +985,15 @@ msgstr ""
 
 msgctxt "DownloadWindow|"
 msgid "Saved in"
-msgstr ""
+msgstr "Lưu tại"
 
 msgctxt "DownloadWindow|"
 msgid "File size"
-msgstr ""
+msgstr "Kích thước file"
 
 msgctxt "DownloadWindow|"
 msgid "Resume support"
-msgstr ""
+msgstr "Hỗ trợ tạm dừng"
 
 msgctxt "DownloadWindow|"
 msgid "Yes"
@@ -994,11 +1005,11 @@ msgstr "Không"
 
 msgctxt "DownloadWindow|"
 msgid "Unknown"
-msgstr ""
+msgstr "Không rõ"
 
 msgctxt "DownloadWindow|"
 msgid "Downloaded"
-msgstr ""
+msgstr "Đã tải xuống"
 
 msgctxt "DownloadWindow|"
 msgid "Speed"
@@ -1006,15 +1017,15 @@ msgstr "Tốc độ"
 
 msgctxt "DownloadWindow|"
 msgid "Time remaining"
-msgstr ""
+msgstr "Thời gian còn lại"
 
 msgctxt "DownloadWindow|"
 msgid "Open download when it is completed"
-msgstr ""
+msgstr "Mở file khi hoàn thành tải về"
 
 msgctxt "DownloadWindow|"
 msgid "Close this window when the download is completed or stopped"
-msgstr ""
+msgstr "Đóng cửa sổ này khi tải về hoàn tất hoặc bị dừng lại"
 
 msgctxt "DownloadWindow|"
 msgid "Hide"
@@ -1030,15 +1041,15 @@ msgstr "Mở"
 
 msgctxt "DownloadWindow|"
 msgid "Stop"
-msgstr ""
+msgstr "Dừng"
 
 msgctxt "DownloadWindow|"
 msgid "Start"
-msgstr ""
+msgstr "Bắt đầu"
 
 msgctxt "DownloadsItemTools|"
 msgid "Moving"
-msgstr ""
+msgstr "Di chuyển"
 
 msgctxt "DownloadsItemTools|"
 msgid "Checking for viruses"
@@ -1062,11 +1073,11 @@ msgstr "Thiếu tệp tin"
 
 msgctxt "DownloadsItemTools|"
 msgid "Disk is missing"
-msgstr ""
+msgstr "Thiếu ổ đĩa"
 
 msgctxt "DownloadsList|"
 msgid "Download links (%1 selected)"
-msgstr ""
+msgstr "Link tải xuống (%1 đã chọn)"
 
 msgctxt "DownloadsList|"
 msgid "Select all"
@@ -1106,7 +1117,7 @@ msgstr "Hiển thị tất cả"
 
 msgctxt "DownloadsPage|"
 msgid "Download list is empty. Add new download URL."
-msgstr ""
+msgstr "Danh sách tải xuống đang trống. Thêm URL tải xuống mới."
 
 msgctxt "DownloadsSettings|"
 msgid "Downloads settings"
@@ -1186,7 +1197,7 @@ msgstr "Thiếu tệp tin"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "Disk is missing"
-msgstr ""
+msgstr "Thiếu ổ đĩa"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "Upload paused"
@@ -1214,7 +1225,7 @@ msgstr "Hiển thị trong thư mục"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Report problem"
-msgstr ""
+msgstr "Báo cáo sự cố"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show Downloads"
@@ -1390,7 +1401,7 @@ msgstr ""
 
 msgctxt "EditTagDialog|"
 msgid "Extensions (e.g. \"avi mp3\")"
-msgstr ""
+msgstr "Định dạng (ví dụ: \"avi mp3\")"
 
 msgctxt "EditTagDialog|"
 msgid ""
@@ -1427,7 +1438,7 @@ msgstr ""
 
 msgctxt "EnvTools|"
 msgid "No Internet connection"
-msgstr ""
+msgstr "Không có kết nối Internet"
 
 msgctxt "EnvTools|"
 msgid "Mobile data use disabled"
@@ -1531,7 +1542,7 @@ msgstr "Đang tính toán"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Compare with"
-msgstr ""
+msgstr "So sánh với"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Verification OK"
@@ -1599,7 +1610,7 @@ msgstr "Chọn thư mục"
 
 msgctxt "FilePickerPage|"
 msgid "Select file"
-msgstr ""
+msgstr "Chọn tệp"
 
 msgctxt "FilePickerPage|"
 msgid "OK"
@@ -1607,7 +1618,7 @@ msgstr "Đồng ý"
 
 msgctxt "FilePickerPage|"
 msgid "Empty folder"
-msgstr ""
+msgstr "Thư mục trống"
 
 msgctxt "FilePickerSortDialog|"
 msgid "By date"
@@ -1635,19 +1646,19 @@ msgstr "Giảm dần"
 
 msgctxt "FileType|"
 msgid "File type:"
-msgstr ""
+msgstr "Loại tệp:"
 
 msgctxt "FilesExistsDialog|"
 msgid "Warning: file exists already"
-msgstr ""
+msgstr "Cảnh báo: tệp đã tồn tại trước đó"
 
 msgctxt "FilesExistsDialog|"
 msgid "Remember my choice for all downloads"
-msgstr ""
+msgstr "Nhớ lựa chọn của tôi cho mọi file tải xuống"
 
 msgctxt "FilesExistsDialog|"
 msgid "Rename (%1)"
-msgstr ""
+msgstr "Đổi tên (%1)"
 
 msgctxt "FilesExistsDialog|"
 msgid "Overwrite"
@@ -1655,7 +1666,7 @@ msgstr "Ghi đè"
 
 msgctxt "FilesExistsDialog|"
 msgid "Abort"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgctxt "FilesTree|"
 msgid "Name"
@@ -1727,11 +1738,11 @@ msgstr "Tính toàn vẹn tệp tin"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert video to mp3"
-msgstr ""
+msgstr "Chuyển đổi video thành mp3"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert video to mp4"
-msgstr ""
+msgstr "Chuyển đổi video thành mp4"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert to mp4"
@@ -1764,8 +1775,8 @@ msgstr "Đề xuất thư mục dựa trên loại tệp tin"
 msgctxt "GeneralSettings|"
 msgid "A light theme will be used, if the system theme is unknown."
 msgstr ""
-"Giao diện sáng sẽ được áp dụng trong trường hợp không phân biệt được giao "
-"diện hệ thống"
+"Giao diện sáng sẽ được áp dụng trong trường hợp không nhận dạng được giao "
+"diện hệ thống."
 
 msgctxt "GeneralSettings|"
 msgid "Your language is not listed or the translation isn't complete?"
@@ -1809,7 +1820,7 @@ msgstr ""
 
 msgctxt "GeneralSettings|"
 msgid "Enable standalone downloads windows"
-msgstr ""
+msgstr "Bật cửa sổ tải xuống riêng lẻ"
 
 msgctxt "GeneralSettings|"
 msgid "Automatically remove deleted files from download list"
@@ -1857,7 +1868,7 @@ msgstr "đã hoàn thành"
 
 msgctxt "GeneralTab|"
 msgid "State"
-msgstr ""
+msgstr "Trạng thái"
 
 msgctxt "GeneralTab|"
 msgid "Total size:"
@@ -1873,7 +1884,7 @@ msgstr ""
 
 msgctxt "GeneralTab|"
 msgid "ratio"
-msgstr ""
+msgstr "tỷ lệ"
 
 msgctxt "GeneralTab|"
 msgid "Web page"
@@ -1929,7 +1940,7 @@ msgstr "SHA-256"
 
 msgctxt "ImportDialog|"
 msgid "Import"
-msgstr ""
+msgstr "Nhập"
 
 msgctxt "ImportDialog|"
 msgid "Cancel"
@@ -1977,7 +1988,7 @@ msgstr ""
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Failure to import"
-msgstr ""
+msgstr "Không thể nhập được"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Unable to import from the file: %1"
@@ -1993,7 +2004,7 @@ msgstr "Không hỏi lại"
 
 msgctxt "InvalidSettingsMessageDialog|"
 msgid ". Close anyway?"
-msgstr ""
+msgstr "Đóng?"
 
 msgctxt "LanguageDialog|"
 msgid "Language"
@@ -2077,11 +2088,11 @@ msgstr ""
 
 msgctxt "MainMenu|"
 msgid "Paste Urls from Clipboard"
-msgstr ""
+msgstr "Dán URL vừa mới sao chép"
 
 msgctxt "MainMenu|"
 msgid "Paste Urls from File"
-msgstr ""
+msgstr "Dán URL từ file"
 
 msgctxt "MainMenu|"
 msgid "Export/Import"
@@ -2093,11 +2104,11 @@ msgstr ""
 
 msgctxt "MainMenu|"
 msgid "Import downloads"
-msgstr ""
+msgstr "Nhập tải về"
 
 msgctxt "MainMenu|"
 msgid "Export settings"
-msgstr ""
+msgstr "Xuất tải về"
 
 msgctxt "MainMenu|"
 msgid "Import settings"
@@ -2212,7 +2223,7 @@ msgstr ""
 
 msgctxt "MaxURatioComboBox|"
 msgid "Unlimited"
-msgstr "không giới hạn"
+msgstr "Không giới hạn"
 
 msgctxt "MaxURatioComboBox|"
 msgid "Custom..."
@@ -2348,11 +2359,11 @@ msgstr "Bitrate (chất lượng)"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Constant bitrate of value"
-msgstr ""
+msgstr "Giá trị bitrate cố định"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Variable bitrate (VBR)"
-msgstr ""
+msgstr "BItrate dao động (VBR)"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "The path contains invalid characters"
@@ -2360,7 +2371,7 @@ msgstr "Đường dẫn chứa kí tự đặc biệt"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "OK"
-msgstr "Đồng ý"
+msgstr "OK"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Convert to mp3"
@@ -2368,7 +2379,7 @@ msgstr "Chuyển đổi thành tệp mp3"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Convert to mp3 with adjustable bitrate"
-msgstr ""
+msgstr "Chuyển đổi định dạng thành mp3 với bitrate có thể điều chỉnh"
 
 msgctxt "Mp3ConverterPage|"
 msgid "OK"
@@ -2376,7 +2387,7 @@ msgstr "Đồng ý"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Save to"
-msgstr ""
+msgstr "Lưu vào"
 
 msgctxt "Mp3ConverterPage|"
 msgid "The path contains invalid characters"
@@ -2388,11 +2399,11 @@ msgstr "Bitrate (chất lượng)"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Constant bitrate of value"
-msgstr ""
+msgstr "Giá trị bitrate cố định"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Variable bitrate (VBR)"
-msgstr ""
+msgstr "BItrate dao động (VBR)"
 
 msgctxt "Mp4ConverterDialog|"
 msgid "Convert to mp4"
@@ -2400,7 +2411,7 @@ msgstr "Chuyển đổi thành tệp mp4"
 
 msgctxt "Mp4ConverterDialog|"
 msgid "Save to"
-msgstr ""
+msgstr "Lưu vào"
 
 msgctxt "Mp4ConverterDialog|"
 msgid "Open"
@@ -2428,7 +2439,7 @@ msgstr "Đồng ý"
 
 msgctxt "Mp4ConverterPage|"
 msgid "Save to"
-msgstr ""
+msgstr "Lưu vào"
 
 msgctxt "NativeMenuBar|"
 msgid "Check for Updates..."
@@ -2620,15 +2631,15 @@ msgstr "Video"
 
 msgctxt "PreferredVideoQualityCombobox|"
 msgid "Lowest"
-msgstr ""
+msgstr "Thấp nhất"
 
 msgctxt "PreferredVideoQualityCombobox|"
 msgid "Highest"
-msgstr ""
+msgstr "Cao nhất"
 
 msgctxt "PrivacyDialog|"
 msgid "User agreement"
-msgstr ""
+msgstr "Thỏa thuận người dùng"
 
 msgctxt "PrivacyDialog|"
 msgid ""
@@ -3474,7 +3485,7 @@ msgstr "Tuỳ chỉnh"
 
 msgctxt "SettingsPage|"
 msgid "General"
-msgstr "Chung"
+msgstr "Cài đặt chung"
 
 msgctxt "SettingsPage|"
 msgid "Browser Integration"
@@ -3486,7 +3497,7 @@ msgstr "Mạng"
 
 msgctxt "SettingsPage|"
 msgid "Traffic Limits"
-msgstr "Giới hạn giao thông"
+msgstr "Giới hạn lưu lượng"
 
 msgctxt "SettingsPage|"
 msgid "Antivirus"
@@ -3532,10 +3543,12 @@ msgstr ""
 msgctxt "ShutdownBanner|"
 msgid "Computer will be hibernate after all downloads are completed."
 msgstr ""
+"Máy tính sẽ được đưa vào chế độ ngủ đông sau khi tất cả các tải xuống đã "
+"hoàn tất."
 
 msgctxt "ShutdownBanner|"
 msgid "Computer will be shutdown after all downloads are completed."
-msgstr "Tắt máy sau khi tải xuống tất cả tệp"
+msgstr "Tắt nguồn sau khi hoàn tất tải xuống tất cả tệp."
 
 msgctxt "ShutdownDialog|"
 msgid "Confirm"
@@ -3555,14 +3568,11 @@ msgstr "Chú ý! Máy tính của bạn sắp chuyển sang chế độ Ngủ"
 
 msgctxt "ShutdownDialog|"
 msgid "Attention! Your computer will be hibernated."
-msgstr ""
+msgstr "Chú ý! Máy tính của bạn sắp đi vào chế độ ngủ đông."
 
 msgctxt "ShutdownDialog|"
 msgid "Attention! Your computer will be shut down."
-msgstr "Chú ý! Máy tính của bạn sắp tắt."
-
-
-
+msgstr "Chú ý! Máy tính của bạn sắp tắt nguồn."
 
 msgctxt "SoundsSettings|"
 msgid "Sounds settings"
@@ -3586,7 +3596,7 @@ msgstr "Tải xuống thất bại"
 
 msgctxt "SoundsSettings|"
 msgid "No active downloads"
-msgstr "Không chủ động tải xuống"
+msgstr "Không có mục tải xuống nào đang hoạt động"
 
 msgctxt "SslDialog|"
 msgid "Warning: potential security risk ahead"
@@ -3610,7 +3620,7 @@ msgstr "SHA1:"
 
 msgctxt "SslDialog|"
 msgid "Accept the risk and download"
-msgstr ""
+msgstr "Chấp nhận rủi ro và tải xuống"
 
 msgctxt "SslDialog|"
 msgid "Cancel"
@@ -3658,7 +3668,7 @@ msgstr "Tạm dừng tải về"
 
 msgctxt "StopDownloadDialog|"
 msgid "The download(s) below can't be resumed after pausing."
-msgstr ""
+msgstr "Không thể tiếp tục tải những mục Download bên dưới sau khi tạm dừng"
 
 msgctxt "StopDownloadDialog|"
 msgid "Pause"
@@ -3670,15 +3680,15 @@ msgstr "Hủy"
 
 msgctxt "StopDownloadDialog|"
 msgid "This download can't be resumed after pausing"
-msgstr ""
+msgstr "File tải xuống này không thể tiếp tục tải xuống sau khi tạm dừng"
 
 msgctxt "StopDownloadDialog|"
 msgid "The download(s) below can't be resumed after pausing"
-msgstr ""
+msgstr "Không thể tiếp tục tải những mục Download bên dưới sau khi tạm dừng"
 
 msgctxt "Subtitles|"
 msgid "Download subtitles"
-msgstr ""
+msgstr "Tải phụ đề"
 
 msgctxt "Subtitles|"
 msgid "Edit list"
@@ -3694,11 +3704,11 @@ msgstr "Loại bỏ"
 
 msgctxt "TagPalette|"
 msgid "Customize color"
-msgstr ""
+msgstr "Tùy chỉnh màu sắc"
 
 msgctxt "ThemeComboBox|"
 msgid "System"
-msgstr ""
+msgstr "Hệ thống"
 
 msgctxt "ThemeComboBox|"
 msgid "Light"
@@ -3754,7 +3764,7 @@ msgstr "Giới hạn lưu lượng"
 
 msgctxt "TumComboBox|"
 msgid "Unlimited"
-msgstr "không giới hạn"
+msgstr "Không giới hạn"
 
 msgctxt "TumComboBox|"
 msgid "KB/s"
@@ -3766,7 +3776,7 @@ msgstr "không giới hạn"
 
 msgctxt "TumComboBox|"
 msgid "Download: %1, Upload: %2"
-msgstr "Tải xuốngL %1, Tải lên: %2"
+msgstr "Tải xuống: %1, Tải lên: %2"
 
 msgctxt "TumComboBox|"
 msgid "High"
@@ -3782,7 +3792,7 @@ msgstr "Thấp"
 
 msgctxt "TumMaxURatioComboBox|"
 msgid "Unlimited"
-msgstr "không giới hạn"
+msgstr "Không giới hạn"
 
 msgctxt "TumMaxURatioComboBox|"
 msgid "Custom..."
@@ -3790,7 +3800,7 @@ msgstr "Tuỳ chỉnh..."
 
 msgctxt "TumMaxURatioComboBox|"
 msgid "Please enter numbers only"
-msgstr ""
+msgstr "Xin chỉ nhập duy nhất con số"
 
 msgctxt "TumModeBlock|"
 msgid "Download speed"
@@ -3798,7 +3808,7 @@ msgstr "Tốc độ tải xuống"
 
 msgctxt "TumModeBlock|"
 msgid "Unlimited"
-msgstr "không giới hạn"
+msgstr "Không giới hạn"
 
 msgctxt "TumModeBlock|"
 msgid "Max. number of simultaneous downloads"
@@ -3814,7 +3824,7 @@ msgstr ""
 
 msgctxt "TumModeDialog|"
 msgid "Change traffic limits"
-msgstr ""
+msgstr "Thay đổi giới hạn lưu lượng"
 
 msgctxt "TuneAndAddDownloadDialog|"
 msgid "New download"
@@ -3942,7 +3952,7 @@ msgstr "Có!"
 
 msgctxt "VoteBlock|"
 msgid "Thanks a lot! Please rate on Google Play."
-msgstr ""
+msgstr "Cảm ơn bạn rất nhiều! Hãy đánh giá chúng tôi trên Google Play"
 
 msgctxt "VoteBlock|"
 msgid "Later"
@@ -3966,8 +3976,8 @@ msgstr "Làm mới"
 
 msgctxt "main|"
 msgid "Sorry, the report hasn't been sent, an error occurred: %1"
-msgstr ""
+msgstr "Xin lỗi, báo cáo của bạn vẫn chưa được gửi, đã có lỗi xảy ra: %1"
 
 msgctxt "main|"
 msgid "The report has been sent. Thank you for your cooperation!"
-msgstr ""
+msgstr "Báo cáo đã được gửi. Cảm ơn sự hợp tác của bạn !"
